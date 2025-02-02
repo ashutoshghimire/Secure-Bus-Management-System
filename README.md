@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+Overview
+The Secure Bus Management System is a web application developed as part of the ST6005CEM Security coursework. This system is designed to manage bus operations securely and efficiently, providing features for both passengers and administrators.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Features
+User authentication and authorization
+Real-time bus tracking
+Secure payment processing
+Admin dashboard for managing routes and schedules
+User-friendly interface for passengers
+Getting Started
+To get started with the project, follow these steps:
 
-## Available Scripts
+Prerequisites
+Node.js (version 14 or higher)
+npm (Node package manager)
+Installation
+Clone the repository:
 
-In the project directory, you can run:
+bash
 
-### `npm start`
+Verify
+Run
+Copy code
+git clone https://github.com/ashutoshghimire/Secure-Bus-Management-System.git
+Navigate to the client directory:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+bash
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Verify
+Run
+Copy code
+cd Secure-Bus-Management-System/client
+Install the client dependencies:
 
-### `npm test`
+bash
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Verify
+Run
+Copy code
+npm install
+Start the client application:
 
-### `npm run build`
+bash
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Verify
+Run
+Copy code
+npm start
+Open a new terminal and navigate to the server directory:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+bash
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Verify
+Run
+Copy code
+cd ../server
+Install the server dependencies:
 
-### `npm run eject`
+bash
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Verify
+Run
+Copy code
+npm install
+Start the server application:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+bash
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Verify
+Run
+Copy code
+npm start
+Accessing the Application
+Once both the client and server are running, you can access the application by navigating to http://localhost:3000 in your web browser.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Available Scripts
+In the client directory, you can run:
 
-## Learn More
+npm start: Runs the client app in development mode.
+npm test: Launches the test runner in interactive watch mode.
+npm run build: Builds the client app for production.
+In the server directory, you can run:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+npm start: Starts the server application.
+Contributing
+Contributions are welcome! Please follow these steps:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Fork the repository.
+Create a new branch (git checkout -b feature/YourFeature).
+Make your changes and commit them (git commit -m 'Add some feature').
+Push to the branch (git push origin feature/YourFeature).
+Open a pull request.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Acknowledgments
+Thanks to the contributors and the community for their support and feedback.
