@@ -1,0 +1,53 @@
+[
+    {
+        "id": "0",
+        "ville": "Kathmandu",
+        "region": "5"
+    },
+    {
+        "id": "1",
+        "ville": "Pokhara",
+        "region": "9"
+    },
+    {
+        "id": "2",
+        "ville": "Bharatpur",
+        "region": "8"
+    },
+    {
+        "id": "3",
+        "ville": "Lalitpur",
+        "region": "3"
+    },
+    {
+        "id": "4",
+        "ville": "Birgunj",
+        "region": "2"
+    },
+    {
+        "id": "5",
+        "ville": "Butwal",
+        "region": "7"
+    },
+    {
+        "id": "6",
+        "ville": "Biratnagar",
+        "region": "1"
+    },
+    {
+        "id": "7",
+        "ville": "Hetauda",
+        "region": "3"
+    },
+    {
+        "id": "8",
+        "ville": "Dharan",
+        "region": "1"
+    },
+    {
+        "id": "9",
+        "ville": "Birtamod",
+        "region": "1"
+    }
+  ]
+  
