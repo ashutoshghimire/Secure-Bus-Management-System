@@ -17,7 +17,9 @@ The Secure Bus Management System is a web application developed as part of the S
 ## Installation
 
 Clone the repository:
-### `git clone https://github.com/ashutoshghimire/Secure-Bus-Management-System.git`
+```shell
+git clone https://github.com/ashutoshghimire/Secure-Bus-Management-System.git
+```
 
 Navigate to the client directory and start:
 ```shell
